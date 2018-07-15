@@ -46,6 +46,6 @@ G:\COMPILER
 将项目pull到本地，使用IDE运行即可。
 
 ## 关于
-Create by *PengTsinv*
+Created by *PengTsinv*
 
 
