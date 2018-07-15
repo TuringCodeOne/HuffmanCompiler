@@ -23,7 +23,7 @@ G:\COMPILER
         ToBeTran.txt
 ```
 
-`main.c`是程序的入口，`Header.h`为所有函数的定义
+`main.c`是程序的入口，`Header.h`为所有函数的声明
 
 
 ## 具备的功能
